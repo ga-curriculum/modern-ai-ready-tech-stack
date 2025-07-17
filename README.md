@@ -1,21 +1,19 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Modern AI Ready Tech Stack</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+Welcome to the Modern AI-Ready Tech Stack module! This guide will help you set up a future-proof project using the latest frameworks, tools, and best practices for AI integration. You'll learn how to scaffold a project, document standards, and prepare for seamless AI adoption.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [Participant Guide](./praticipant-guide/README.md)   | 30 min | Hands-on activities, project setup, AI integration |
+| [Facilitator Guide](./facilitator-guide/README.md)   | -- | Guidance for facilitators, teaching tips |
+| **Total content**                                   | 30 min |                                     |
 
 ## References
 
