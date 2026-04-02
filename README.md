@@ -47,8 +47,8 @@ tktk If there is not a deployed site related to this module this section and all
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [tktk-course-acronym - tktk Course Full Name](https://ga-curriculum.github.io/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
+- [Fallback](https://ga-curriculum.github.io/tktk-module-name/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -60,4 +60,4 @@ tktk If there is not a deployed site related to this module this section and all
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
